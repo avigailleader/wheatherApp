@@ -1,7 +1,7 @@
 
 
-### To run this app
+### To run this server
 `npm i`
 `npm start`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+the server will run on port 4000
